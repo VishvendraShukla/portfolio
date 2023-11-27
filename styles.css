@@ -1,0 +1,14 @@
+.background-image{
+    background-image: url("./assets/peakpx.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 91vh;
+}
+
+.light-text {
+    color: azure;
+}
+
+.show-border {
+    border: 1px solid black;
+}
